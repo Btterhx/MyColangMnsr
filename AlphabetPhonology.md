@@ -32,3 +32,4 @@ The complete Mnsr alphabet includes 13 letters:
 - No silent letters. No digraphs. No tone or diacritics.
 - **Phonemic spelling**: letters correspond 1:1 with sounds.
 - **No strict enforcement** of accent or precision. As long as distinctions between sounds are preserved, pronunciation is considered valid.
+- **Final "h" is silent**: When a word ends in **h**, it is **not pronounced**. For example, `imuh` is pronounced [ˈimu].
