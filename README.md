@@ -1,5 +1,7 @@
 # My Colang Mnsr
 
+A simple, neutral, easy-to-learn language.
+
 ## Origin of the Name
 
 The name **Mnsr** comes from the initials of the four core pronouns in the language:
