@@ -4,10 +4,13 @@
 
 The name **Mnsr** comes from the initials of the four core pronouns in the language:
 
-- **Me** – the self, any subjective being
-- **Ne** – the other, addressed being
-- **Se** – the known, trusted or understandable third entity
-- **Re** – the unknown, untrusted or unintelligible third entity
+- **Me** – the self (any subject)
+
+- **Ne** – the other (you)
+
+- **Se** – the trusted or knowable third (it)
+
+- **Re** – the unknown, unreliable, or alien third (it)
 
 Together, these represent the basic relational structure between subject, object, and environment in Mnsr.
 
