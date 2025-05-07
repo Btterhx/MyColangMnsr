@@ -29,7 +29,7 @@ Possessive forms are derived by suffixing:
 
 ## Object Forms (Accusative)
 
-Object forms are created by replacing the final `e` with `r`.
+Object forms are created by replacing the final `e` with `er`.
 
 | Subject | Object |
 |---------|--------|
