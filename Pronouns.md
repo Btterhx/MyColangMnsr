@@ -8,7 +8,7 @@ Mnsr uses four core personal pronouns. Each represents a relational category rat
 |---------|---------------------------------------------------|
 | **Me**  | the self (any subject)                            |
 | **Ne**  | the other, you                                    |
-| **Se**  | the trusted or knowable third (it/he/she)         |
+| **Se**  | the trusted or knowable third (it/she/he)         |
 | **Re**  | the unknown, unreliable, or alien third (it)      |
 
 These forms are used as the grammatical subject in a sentence.
