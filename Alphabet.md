@@ -2,8 +2,7 @@
 
 ## Letter System
 
-Mnsr uses a basic Latin script. Letters have both uppercase and lowercase forms, but case has no grammatical function—only stylistic.
-
+Mnsr uses a basic Latin script. Letters have both uppercase and lowercase forms.
 ## Alphabet
 
 The complete Mnsr alphabet includes 13 letters:
